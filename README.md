@@ -28,7 +28,7 @@ MYSQL_DATABASE=test
 MYSQL_USER=test
 MYSQL_PASSWORD=test
 MYSQL_ALLOW_EMPTY_PASSWORD=yes
-ML_PATH=[File Path]
+XML_PATH=[File Path]
 ```
 
 求人データ構造体(テストデータ作成参考用)
