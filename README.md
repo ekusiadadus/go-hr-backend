@@ -7,7 +7,7 @@
 | Go言語 | 1.17.2 |
 | Docker | 1.41 |
 | docker-compose | 1.29.2  |
-| ElasticSearch | 7.8.1 |
+| Elasticsearch | 7.8.1 |
 | Kibana | 7.8.1 |
 
 
