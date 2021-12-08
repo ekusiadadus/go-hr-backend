@@ -1,4 +1,4 @@
-# Go言語+ElasticSearchで簡易求人検索バックエンド構築
+# Go言語+Elasticsearchで簡易求人検索バックエンド構築
 
 動作環境
 
