@@ -98,7 +98,7 @@ http://localhost:5000/search?keyword=Go言語&state=東京都
 http://localhost:5000/search?keyword=アルバイト・パート&state=神奈川県
 
  #求人のユニークidから検索する
-http://localhost:5000/search?id=J0050774288-S0007927074
+http://localhost:5000/search?id=test
 ```
 
 http://localhost:5000/search?[keyword]&[state]
