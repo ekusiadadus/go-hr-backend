@@ -1,0 +1,6 @@
+demo_app/
+
+mynavi*
+venv/**/*
+node_modules/
+.next/
